@@ -8,7 +8,7 @@ body{
     text-shadow: 0 0 10px #FF2B00;
 }
 .box{
-    padding: 20px;
+    padding: 10px;
     background: linear-gradient(transparent, #FF2121);
     border-radius: 30px;
     width: 40%;
@@ -248,4 +248,5 @@ body{
     box-shadow: 0 0 40px 0 #DE1818;
     box-sizing: border-box;
     margin-top: 50px;
+
 }
